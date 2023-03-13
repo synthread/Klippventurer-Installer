@@ -5,4 +5,4 @@
   </a>
 </p>
 </div>
-# [main repository](https://github.com/VioSynthax/Klippventurer "Click here for instructions")
+# [Installation instructions](https://github.com/VioSynthax/Klippventurer)
