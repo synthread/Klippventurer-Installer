@@ -4,6 +4,6 @@
     <h1 align="center">Klippventurer Installation Script</h1>
   </a>
   <a>
-    <h1 align="center">For instructions, click<a>href="https://github.com/VioSynthax/Klippventurer">here</a></h1>
+    <h1 align="center" href="https://github.com/VioSynthax/Klippventurer">For instructions, click here</h1>
 </p>
 </div>
