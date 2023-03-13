@@ -81,13 +81,13 @@ echo "Serial should be good to go. Preparing to install Klipper and Mainsail."
 cd ~/kiauh/scripts
 
 # Execute klipper.sh
-./klipper.sh
+sudo ./klipper.sh
 
 # Execute mainsail.sh
-./mainsail.sh
+sudo ./mainsail.sh
 
 # Execute fluidd.sh
-./fluidd.sh
+sudo ./fluidd.sh
 
 # Change directory to home and copy Klipper config into place
 cd ~
